@@ -1,4 +1,3 @@
-yojava
-======
+#Yo JAVA
 
-Yo API for the Java language.
+A simple Yo API wrapper for Java.
